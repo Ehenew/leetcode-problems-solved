@@ -6,5 +6,4 @@ def find_number(n, k):
         return 2 * (k - count_odd)
 
 n, k = map(int, input().split())
-
 print(find_number(n, k))
