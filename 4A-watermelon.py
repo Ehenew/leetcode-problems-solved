@@ -1,10 +1,6 @@
-import math
+w = int(input())
 
-n, m, a = map(int, input().split())
-
-flagstones_length = math.ceil(n / a)
-flagstones_width = math.ceil(m / a)
-
-total_flagstones = flagstones_length * flagstones_width
-
-print(total_flagstones)
+if w > 2 and w % 2 == 0:
+    print("YES")
+else:
+    print("NO")
