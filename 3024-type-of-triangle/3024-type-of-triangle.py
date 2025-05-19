@@ -1,14 +1,13 @@
 class Solution:
     def triangleType(self, nums: List[int]) -> str:
-        try_type = ''
+        a, b, c = nums
 
-        if nums[0] + nums[1] <= nums[2] or nums[0] + nums[2] <= nums[1] or nums[1] + nums[2] <= nums[0]:
+        if a + b <= c or a + c <= b or b + c <= a:
             return 'none'
-        if nums[0] == nums[1] == nums[2]:
-            tri_type = "equilateral"
-        elif nums[0] != nums[1] and nums[1]!= nums[2] and nums[0]!= nums[2] :
-            tri_type = 'scalene'
-        else:
-            tri_type = 'isosceles'
+        if a == b == c:
+            return 'equilateral'
+
+        if a == b or b == c or a == c:
+            return 'isosceles'
+        return 'scalene'
         
-        return tri_type
