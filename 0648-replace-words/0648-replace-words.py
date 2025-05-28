@@ -9,5 +9,6 @@ class Solution:
                 prefix = word[:j]
                 if prefix in dictionary_set:
                     words[i] = prefix
+                    break
 
         return ' '.join(words)
