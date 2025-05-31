@@ -2,7 +2,7 @@ class Solution:
     def flipAndInvertImage(self, image: List[List[int]]) -> List[List[int]]:
         def reverse(arr):
             left = 0
-            right = len(arr) -1
+            right = len(arr) - 1
             while left < right:
                 arr[left], arr[right] = arr[right], arr[left]
                 left += 1
