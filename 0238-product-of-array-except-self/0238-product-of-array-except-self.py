@@ -1,10 +1,5 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # [1, 1, 2, 6] -> prefix
-        # nums = [1,2,3,4]
-        # [24, 12, 4, 1] -> suffix
-
-        # Output: [24,12,8,6] => 
         
         n = len(nums)
         prefix = [1] * n
@@ -21,3 +16,9 @@ class Solution:
            result.append(prefix[i] * suffix[i])
 
         return result
+
+# nums = [1,2,3,4]
+# [1, 1, 2, 6] -> prefix
+# [24, 12, 4, 1] -> suffix
+
+# Output: [24,12,8,6] => 
