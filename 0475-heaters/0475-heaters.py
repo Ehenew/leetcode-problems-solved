@@ -7,11 +7,13 @@ class Solution:
         
         for house in houses:            
             left, right = 0, len(heaters) - 1
+            #  houses = [1,2,3,4],
+            #  heaters = [1,4]
 
             while left < right:
                 mid = (left + right) // 2
 
-                if heaters[mid] < house:
+                if heaters[mid] <= house:
                     left = mid + 1
                 else:
                     right = mid
