@@ -2,22 +2,22 @@ from typing import List
 
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(path, used):
-            if len(path) == len(nums):
-                res.append(path[:])
+        def backtrack(curr, visited):
+            if len(curr) == len(nums):
+                res.append(curr[:])
                 return
             
             for i in range(len(nums)):
-                if used[i]:
+                if visited[i]:
                     continue
-                if i > 0 and nums[i] == nums[i - 1] and not used[i - 1]:
+                if i > 0 and nums[i] == nums[i - 1] and not visited[i - 1]:
                     continue
                 
-                used[i] = True
-                path.append(nums[i])
-                backtrack(path, used)
-                path.pop()
-                used[i] = False
+                visited[i] = True
+                curr.append(nums[i])
+                backtrack(curr, visited)
+                curr.pop()
+                visited[i] = False
 
         nums.sort()
         res = []
