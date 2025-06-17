@@ -12,16 +12,16 @@ class Solution:
         
         visited = set()        
 
-        def dfs(node, visited):
+        def dfs(node):
             visited.add(node)
             if node == destination:
                 return True
             for neighbor in graph[node]:
                 if neighbor not in visited:
-                    if dfs(neighbor, visited):
+                    if dfs(neighbor):
                         return True
             return False
 
-        ans = dfs(source, visited)
+        ans = dfs(source)
         
         return ans
