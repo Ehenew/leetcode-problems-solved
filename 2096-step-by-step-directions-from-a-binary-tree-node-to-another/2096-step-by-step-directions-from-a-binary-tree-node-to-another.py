@@ -28,16 +28,17 @@ class Solution:
         dfs(root, path_start, startValue)
         dfs(root, path_dest, destValue)
 
-
         path_start = path_start[::-1]
         path_dest = path_dest[::-1]
 
         i = 0
         while i < len(path_start) and i < len(path_dest) and path_start[i] == path_dest[i]:
             i += 1
-
-        res = 'U' *  (len(path_start) - i )     
+            
+        res = ""
+        for j in range(len(path_start) - i):
+            res += "U"
+        for j in range(i, len(path_dest)):
+            res += path_dest[j]
         
-        res += ''.join(path_dest[i:])        
-        return res
-
+        return ans
