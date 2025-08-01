@@ -9,10 +9,10 @@ class Solution:
                 else:
                     return 0
 
-            if (idx, path_sum) not in memo:
-            
-                memo[(idx, path_sum)] = dfs(idx + 1,  path_sum + nums[idx]) + dfs(idx + 1, path_sum - nums[idx])
-
+            if (idx, path_sum) in memo:
+                return memo[(idx, path_sum)]
+                
+            memo[(idx, path_sum)] = dfs(idx + 1,  path_sum + nums[idx]) + dfs(idx + 1, path_sum - nums[idx])
             return memo[(idx, path_sum)]
 
         return dfs(0,0)
