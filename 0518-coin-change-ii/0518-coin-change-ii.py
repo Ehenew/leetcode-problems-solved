@@ -7,7 +7,7 @@ class Solution:
             dp[i][0] = 1
         
         for i in range(1, n + 1): 
-            for t in range(0, amount + 1): 
+            for t in range(1, amount + 1): 
                 dp[i][t] = dp[i - 1][t]
 
 
