@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
