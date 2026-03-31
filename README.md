@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0697-degree-of-an-array/) | Easy |
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -45,4 +46,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
