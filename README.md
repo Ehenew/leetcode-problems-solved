@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0553-optimal-division](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0553-optimal-division/) | Medium |
+| [0598-range-addition-ii](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0598-range-addition-ii/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0697-degree-of-an-array/) | Easy |
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0553-optimal-division](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0553-optimal-division/) | Medium |
+| [0598-range-addition-ii](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0598-range-addition-ii/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
