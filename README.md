@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0598-range-addition-ii/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0697-degree-of-an-array/) | Easy |
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Simulation
@@ -46,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
