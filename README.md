@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2615-sum-of-distances](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2615-sum-of-distances/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0697-degree-of-an-array/) | Easy |
 | [0916-word-subsets](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0916-word-subsets/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2615-sum-of-distances](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2615-sum-of-distances/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/Ehenew/leetcode-problems-solved/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
