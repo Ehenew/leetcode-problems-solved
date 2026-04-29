@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0553-optimal-division/) | Medium |
 | [0598-range-addition-ii](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0598-range-addition-ii/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0553-optimal-division](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0553-optimal-division/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ehenew/leetcode-problems-solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## String
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
