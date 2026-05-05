@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ehenew/leetcode-problems-solved/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ehenew/leetcode-problems-solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
